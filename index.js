@@ -1,3 +1,5 @@
+// Matan Yamin, 311544407
+//This is fo synch Google Calendar with CEO Google Calendar
 const fs = require('fs');
 const readline = require('readline');
 const {google} = require('googleapis');
