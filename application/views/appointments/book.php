@@ -342,6 +342,11 @@
                     ?> 
                 </a>
                     |
+                    <a href="https://www.instagram.com/skycleaner1/" target="_blank">
+                    <?php 
+                    echo "<img src='https://www.clipartmax.com/png/middle/20-202056_instagram-instagram-business-card-icon.png' alt='photo of me' style='width: 4%;'>"; 
+                    ?> 
+                </a>
                     <span id="select-language" class="label label-success">
     		        	<?= ucfirst($this->config->item('language')) ?>
     		        </span>
