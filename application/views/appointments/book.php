@@ -338,8 +338,8 @@
                     
                     <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
-    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' />"; 
-?> 
+                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 4%;'>"; 
+                    ?> 
                 </a>
                     |
                     <span id="select-language" class="label label-success">
