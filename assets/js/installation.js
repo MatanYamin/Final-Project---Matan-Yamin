@@ -101,12 +101,12 @@ $(function () {
             }
 
             // Validate Email
-            if (!GeneralFunctions.validateEmail($('#email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#email').val())) {
                 $('#email').closest('.form-group').addClass('has-error');
                 throw 'The email address is invalid!';
             }
 
-            if (!GeneralFunctions.validateEmail($('#company-email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#company-email').val())) {
                 $('#company-email').closest('.form-group').addClass('has-error');
                 throw 'The email address is invalid!';
             }

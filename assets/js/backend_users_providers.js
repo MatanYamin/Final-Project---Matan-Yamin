@@ -319,7 +319,7 @@
             }
 
             // Validate user email.
-            if (!GeneralFunctions.validateEmail($('#provider-email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#provider-email').val())) {
                 $('#provider-email').closest('.form-group').addClass('has-error');
                 throw EALang.invalid_email;
             }

@@ -267,7 +267,7 @@
             }
 
             // Validate user email.
-            if (!GeneralFunctions.validateEmail($('#admin-email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#admin-email').val())) {
                 $('#admin-email').closest('.form-group').addClass('has-error');
                 throw EALang.invalid_email;
             }

@@ -280,7 +280,7 @@
             }
 
             // Validate user email.
-            if (!GeneralFunctions.validateEmail($('#secretary-email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#secretary-email').val())) {
                 $('#secretary-email').closest('.form-group').addClass('has-error');
                 throw 'Invalid email address!';
             }

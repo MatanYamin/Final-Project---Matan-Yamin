@@ -469,7 +469,7 @@ window.FrontendBook = window.FrontendBook || {};
 
 
             // Validate email address.
-            if (!GeneralFunctions.validateEmail($('#email').val())) {
+            if (!GeneralFunctions.ifEmailIsValid($('#email').val())) {
                 $('#email').parents('.form-group').addClass('has-error');
                 throw EALang.invalid_email;
             }
