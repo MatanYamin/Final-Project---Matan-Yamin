@@ -341,10 +341,10 @@
                     echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 4%;'>"; 
                     ?> 
                 </a>
-                    |
+                
                     <a href="https://www.instagram.com/skycleaner1/" target="_blank">
                     <?php 
-                    echo "<img src='https://www.clipartmax.com/png/middle/20-202056_instagram-instagram-business-card-icon.png' alt='photo of me' style='width: 4%;'>"; 
+                    echo "<img src='https://www.clipartmax.com/png/middle/20-202056_instagram-instagram-business-card-icon.png' alt='photo of me' style='width: 7%;'>"; 
                     ?> 
                 </a>
                     <span id="select-language" class="label label-success">
