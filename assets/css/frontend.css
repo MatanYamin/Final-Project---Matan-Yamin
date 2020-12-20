@@ -45,8 +45,8 @@ body {
 #book-appointment-wizard #header {
     padding: 5px;
     height: 90px;
-    background: red;
-    border-bottom: 4px solid #c0f1d6;
+    background: #32afb5;
+    border-bottom: 4px solid #32afb5;
 }
 
 #book-appointment-wizard #company-name {
