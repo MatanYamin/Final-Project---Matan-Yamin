@@ -417,4 +417,8 @@ body {
     #success-frame {
         height: 100%;
     }
+
+    #facebook{
+        size: 10%;
+    }
 }

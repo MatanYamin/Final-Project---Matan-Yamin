@@ -336,7 +336,7 @@
 
                 <div id="frame-footer">
                     
-                    <a href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
+                    <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
     echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' />"; 
 ?> 
