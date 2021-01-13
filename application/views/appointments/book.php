@@ -32,7 +32,7 @@
 
                     <div id="steps">
                         <div id="step-1" class="book-step active-step" title="<?= lang('step_one_title') ?>">
-                            <strong>1</strong>
+                            <strong>0</strong>
                         </div>
 
                         <div id="step-2" class="book-step" title="<?= lang('step_two_title') ?>">
