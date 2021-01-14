@@ -331,11 +331,12 @@
                         </form>
                     </div>
                 </div>
-
+                <div class="stay_in_touch"> שמרו על קשר!
+                </div>                   
                 <!-- FRAME FOOTER -->
 
                 <div id="frame-footer">
-                    שמרו על קשר!
+                    
                     <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
                     echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 5%;'>"; 
@@ -362,9 +363,9 @@
     		        	<?= ucfirst($this->config->item('language')) ?>
     		        </span>
                     |
-                    <a href="<?= site_url('backend'); ?>">
+                    <!-- <a href="<?= site_url('backend'); ?>">
                         <?= $this->session->user_id ? lang('backend_section') : lang('login') ?>
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
