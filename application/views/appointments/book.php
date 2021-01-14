@@ -30,8 +30,6 @@
                     <span id="company-name"><?= $company_name ?>
                 </span>
                 <div id="welcome_page">
-                    סרטון מההגרלה האחרונה שנערכה! עקבו אחרינו באינסטגרם בשביל עוד הגרלות!
-                    
                     <div id="steps">
                         <div id="step-1" class="book-step active-step" title="<?= lang('step_one_title') ?>">
                             <strong>1</strong>
@@ -340,7 +338,7 @@
                     שמרו על קשר!
                     <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
-                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 7%;'>"; 
+                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 5%;'>"; 
                     ?> 
                 </a>
                 
@@ -351,12 +349,13 @@
                 </a>
                     <a href="https://easy.co.il/page/10080031" target="_blank">
                     <?php 
-                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' alt='photo of me' style='width: 7%;'>"; 
+                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' alt='photo of me' style='width: 5%;'>"; 
                         ?> 
                 </a>
+                &nbsp;
                     <a href="mailto:skycleanerisrael@gmail.com" target="_blank">
                     <?php 
-                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' alt='photo of me' style='width: 7%;'>"; 
+                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' alt='photo of me' style='width: 4.5%;'>"; 
                         ?> 
                 </a>
                     <span id="select-language" class="label label-success">
