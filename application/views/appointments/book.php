@@ -24,12 +24,13 @@
 <body>
     <div id="main" class="container">
         <div class="wrapper row">
-            <div id="book-appointment-wizard" class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+            <div id="book-appointment-wizard" class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2" style="
+    background-color: #32afb5;">
 
                 <!-- FRAME TOP BAR -->
 
                 <div id="header">
-                    <span id="company-name"><?= $company_name ?>
+                    <span id="company-name"><img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" width="30">
                 </span>
                 <div id="welcome_page">
                     <div id="steps">
@@ -85,7 +86,7 @@
                 ?>
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
-        margin-top: 15%;">‏
+        margin-top: 15%; font-size: 34px;">‏
                 ‏
                 ‏
                 ‏
