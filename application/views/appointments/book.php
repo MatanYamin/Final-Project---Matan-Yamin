@@ -81,7 +81,8 @@
                         echo '</div>';
                     }
                 ?>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/BHACKCNDMW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <!-- video section-->
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/BHACKCNDMW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                 <!-- SELECT SERVICE AND PROVIDER -->
                 <div id="wizard-frame-1" class="wizard-frame">
                     <div class="frame-container">
