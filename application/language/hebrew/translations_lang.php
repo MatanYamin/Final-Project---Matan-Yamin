@@ -1,8 +1,8 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 // English
 $lang['page_title'] = 'סקיי קלינר';
-$lang['step_one_title'] = 'אנא בחר סוג עבודה';
-$lang['select_service'] = 'סוג עבודה:';
+$lang['step_one_title'] = 'רוצים שסקאי קלינר יגיעו לנקות לכם? בחרו את סוג השירות שתרצו לקבל';
+$lang['select_service'] = 'סוג השירות:';
 $lang['select_provider'] = 'בעל מקצוע';
 $lang['duration'] = 'זמן עבודה';
 $lang['minutes'] = 'דקות';

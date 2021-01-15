@@ -422,9 +422,14 @@ body {
         /* size: 10%; */
     }
 
-    #text_video{
+    #text_first_page{
         text-align: center;
         margin-top: 15%;
+    }
+
+    #text_choose_service{
+        text-align: center;
+        font-size: 30px;
     }
     
     .video_main{

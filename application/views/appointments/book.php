@@ -84,7 +84,7 @@
                     }
                 ?>
                 <!-- video section-->
-                <p id="text_video">‏
+                <p id="text_first_page">‏
                 ‏
                 ‏
                 ‏
@@ -103,7 +103,9 @@
                         <div class="frame-content">
                             <div class="form-group">
                                 <label for="select-service">
+                                    <p id="text_choose_service">
                                     <strong><?= lang('select_service') ?></strong>
+                                    </p>
                                 </label>
 
                                 <select id="select-service" class="col-xs-12 col-sm-4 form-control">
