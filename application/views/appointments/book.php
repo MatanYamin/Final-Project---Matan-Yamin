@@ -86,7 +86,7 @@
                 ?>
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
-        margin-top: 15%; font-size: 34px;">‏
+        margin-top: 15%; font-size: 25px;">‏
                 ‏
                 ‏
                 ‏
@@ -100,7 +100,7 @@
                 <!-- SELECT SERVICE AND PROVIDER -->
                 <div id="wizard-frame-1" class="wizard-frame">
                     <div class="frame-container">
-                        <h3 class="frame-title"><?= lang('step_one_title') ?></h3>
+                        <h3 class="frame-title" style="font-size: 25px;"><?= lang('step_one_title') ?></h3>
 
                         <div class="frame-content">
                             <div class="form-group">
