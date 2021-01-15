@@ -86,7 +86,7 @@
                 ?>
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
-        margin-top: 15%; font-size: 25px;">‏
+        margin-top: 15%; font-size: 25px; color: white;">‏
                 ‏
                 ‏
                 ‏
@@ -100,17 +100,17 @@
                 <!-- SELECT SERVICE AND PROVIDER -->
                 <div id="wizard-frame-1" class="wizard-frame">
                     <div class="frame-container">
-                        <h3 class="frame-title" style="font-size: 25px;"><?= lang('step_one_title') ?></h3>
+                        <h3 class="frame-title" style="font-size: 25px; color: white;"><?= lang('step_one_title') ?></h3>
 
                         <div class="frame-content">
                             <div class="form-group">
                                 <label for="select-service">
-                                    <p id="text_choose_service">
+                                    <p id="text_choose_service" style="color: white;">
                                     <strong><?= lang('select_service') ?></strong>
                                     </p>
                                 </label>
 
-                                <select id="select-service" class="col-xs-12 col-sm-4 form-control">
+                                <select id="select-service" class="col-xs-12 col-sm-4 form-control" style="color: black; font-weight: bold; font-size: 20px;">
                                     <?php
                                         // Group services by category, only if there is at least one service with a parent category.
                                         $has_category = FALSE;
