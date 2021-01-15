@@ -422,12 +422,12 @@ body {
         /* size: 10%; */
     }
 
-    #text_above_video{
+    #text_video{
         text-align: center;
         margin-top: 15%;
     }
     
-    .video_welcome{
+    .video_main{
         display: flex; 
         justify-content: center;
     }
