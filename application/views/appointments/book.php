@@ -374,10 +374,11 @@
                     <?php 
                     echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' style='width: 4.5%;'>"; 
                         ?> 
+                <br> 
                 <br>
                 </a>
                 
-                <p id="credit_matan_yamin" style="width: 30%; margin: auto; font-weight: bold;"> 
+                <p id="credit_matan_yamin" style="width: 100%; margin: auto; font-weight: bold;"> 
                 &nbsp;<a href="https://www.linkedin.com/in/matan-yamin-40283b199/"> פיתוח צד שרת ועיצוב: מתן ימין &nbsp; </a> <img src='https://icons-for-free.com/iconfiles/png/512/programming+tags+icon-1320087273222563498.png' style='width: 4.5%;'>
                 </p>
                     <!-- <span id="select-language" class="label label-success">
