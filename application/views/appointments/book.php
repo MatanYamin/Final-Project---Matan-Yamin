@@ -375,9 +375,12 @@
                     echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' style='width: 4.5%;'>"; 
                         ?> 
                 </a>
-                    <span id="select-language" class="label label-success">
+                <p id="credit_matan_yamin"> 
+                &nbsp;פיתוח צד שרת ועיצוב: מתן ימין &nbsp; <img src='https://image.flaticon.com/icons/png/512/69/69045.png' style='width: 4.5%;'>
+                </p>
+                    <!-- <span id="select-language" class="label label-success">
     		        	<?= ucfirst($this->config->item('language')) ?>
-    		        </span>
+    		        </span> -->
                     |
                     <!-- <a href="<?= site_url('backend'); ?>">
                         <?= $this->session->user_id ? lang('backend_section') : lang('login') ?>

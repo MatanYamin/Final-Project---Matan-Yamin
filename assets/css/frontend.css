@@ -436,4 +436,9 @@ body {
         display: flex; 
         justify-content: center;
     }
+    #credit_matan_yamin{
+        display: flex; 
+        justify-content: center;
+        color: white;
+    }
 }
