@@ -347,7 +347,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="stay_in_touch"> שמרו על קשר!
+                <div class="stay_in_touch" style="font-size: 25px; color: white; display: flex; justify-content: center;"> שמרו על קשר! <img src="https://i.ibb.co/7YsNTtb/favicon.png">
                 </div>                   
                 <!-- FRAME FOOTER -->
 
