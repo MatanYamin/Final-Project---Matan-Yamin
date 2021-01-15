@@ -34,17 +34,17 @@
                 <div id="welcome_page">
                     <div id="steps">
                         <div id="step-1" class="book-step active-step" title="<?= lang('step_one_title') ?>">
-                            <strong>שלב 1</strong>
+                            <strong>1</strong>
                         </div>
 
                         <div id="step-2" class="book-step" title="<?= lang('step_two_title') ?>">
-                            <strong>שלב 2</strong>
+                            <strong>2</strong>
                         </div>
                         <div id="step-3" class="book-step" title="<?= lang('step_three_title') ?>">
-                            <strong>שלב 3</strong>
+                            <strong>3</strong>
                         </div>
                         <div id="step-4" class="book-step" title="<?= lang('step_four_title') ?>">
-                            <strong>שלב 4</strong>
+                            <strong>4</strong>
                         </div>
                     </div>
                 </div>
@@ -84,6 +84,12 @@
                     }
                 ?>
                 <!-- video section-->
+                <div class="video_welcome">
+                <p id="text_above_video">ברוכים הבאים למערכת קביעת התורים של Sky Cleaner 
+                צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
+                </p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/IPMN-LqzB7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/BHACKCNDMW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                 <!-- SELECT SERVICE AND PROVIDER -->
                 <div id="wizard-frame-1" class="wizard-frame">

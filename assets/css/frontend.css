@@ -421,4 +421,13 @@ body {
     #facebook{
         /* size: 10%; */
     }
+
+    #text_above_video{
+        text-align: center;
+    }
+    
+    .video_welcome{
+        flex-direction: column;
+        align-content: center;
+    }
 }
