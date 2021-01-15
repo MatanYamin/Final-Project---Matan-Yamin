@@ -437,8 +437,11 @@ body {
         justify-content: center;
     }
     #credit_matan_yamin{
-        display: flex; 
-        justify-content: center;
-        color: white;
+        /* display: flex;  */
+        /* justify-content: center; */
+        /* color: white; */
+        width: 30%;
+        margin: auto;
+        font-weight: bold;
     }
 }
