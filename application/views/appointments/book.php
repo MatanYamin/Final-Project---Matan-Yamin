@@ -30,10 +30,10 @@
                 <!-- FRAME TOP BAR -->
 
                 <div id="header">
-                    <span id="company-name"><img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" width="30">
+                    <span id="company-name"><img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" width="100%">
                 </span>
                 <div id="welcome_page">
-                    <div id="steps">
+                    <div id="steps" style="display: flex; justify-content: center; width: 100%; flex-direction: row-reverse;">
                         <div id="step-1" class="book-step active-step" title="<?= lang('step_one_title') ?>">
                             <strong>1</strong>
                         </div>
