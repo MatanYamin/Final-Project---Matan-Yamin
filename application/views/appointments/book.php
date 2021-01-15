@@ -345,7 +345,7 @@
                 
                     <a href="https://www.instagram.com/skycleaner1/" target="_blank">
                     <?php 
-                    echo "<img src='https://www.clipartmax.com/png/middle/20-202056_instagram-instagram-business-card-icon.png' alt='photo of me' style='width: 7%;'>"; 
+                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' alt='photo of me' style='width: 7%;'>"; 
                     ?> 
                 </a>
                     <a href="https://easy.co.il/page/10080031" target="_blank">
