@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#35A768">
 
+    <!-- <title><?= lang('page_title') . ' ' .  $company_name ?></title> -->
+    
     <title><?= lang('page_title') . ' ' .  $company_name ?></title>
 
     <link rel="stylesheet" type="text/css" href="<?= asset_url('assets/ext/bootstrap/css/bootstrap.min.css') ?>">
@@ -32,17 +34,17 @@
                 <div id="welcome_page">
                     <div id="steps">
                         <div id="step-1" class="book-step active-step" title="<?= lang('step_one_title') ?>">
-                            <strong>1</strong>
+                            <strong>שלב 1</strong>
                         </div>
 
                         <div id="step-2" class="book-step" title="<?= lang('step_two_title') ?>">
-                            <strong>2</strong>
+                            <strong>שלב 2</strong>
                         </div>
                         <div id="step-3" class="book-step" title="<?= lang('step_three_title') ?>">
-                            <strong>3</strong>
+                            <strong>שלב 3</strong>
                         </div>
                         <div id="step-4" class="book-step" title="<?= lang('step_four_title') ?>">
-                            <strong>4</strong>
+                            <strong>שלב 4</strong>
                         </div>
                     </div>
                 </div>
@@ -339,24 +341,24 @@
                     
                     <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
-                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' alt='photo of me' style='width: 5%;'>"; 
+                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' style='width: 5%;'>"; 
                     ?> 
                 </a>
                 
                     <a href="https://www.instagram.com/skycleaner1/" target="_blank">
                     <?php 
-                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' alt='photo of me' style='width: 7%;'>"; 
+                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' style='width: 4%;'>"; 
                     ?> 
                 </a>
                     <a href="https://easy.co.il/page/10080031" target="_blank">
                     <?php 
-                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' alt='photo of me' style='width: 5%;'>"; 
+                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' style='width: 5%;'>"; 
                         ?> 
                 </a>
                 &nbsp;
                     <a href="mailto:skycleanerisrael@gmail.com" target="_blank">
                     <?php 
-                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' alt='photo of me' style='width: 4.5%;'>"; 
+                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' style='width: 4.5%;'>"; 
                         ?> 
                 </a>
                     <span id="select-language" class="label label-success">
