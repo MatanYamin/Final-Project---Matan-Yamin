@@ -173,7 +173,7 @@
                                 <select id="select-provider" class="col-xs-12 col-sm-4 form-control"></select>
                             </div>
 
-                            <div id="service-description" style="display:none;"></div>
+                            <div id="service-description" style="display:none; font-size: 20px; color: white;"></div>
                         </div>
                     </div>
 
