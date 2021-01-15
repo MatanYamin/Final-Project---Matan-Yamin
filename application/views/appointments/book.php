@@ -84,10 +84,14 @@
                     }
                 ?>
                 <!-- video section-->
-                <div class="video_welcome">
-                <p id="text_above_video">ברוכים הבאים למערכת קביעת התורים של Sky Cleaner 
-                צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
+                <p id="text_above_video">‏
+                ‏
+                ‏
+                ‏
+                    ברוכים הבאים למערכת קביעת התורים של Sky Cleaner 
+                    צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
                 </p>
+                <div class="video_welcome">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPMN-LqzB7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/BHACKCNDMW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
