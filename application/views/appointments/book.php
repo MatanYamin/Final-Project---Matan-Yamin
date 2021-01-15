@@ -84,7 +84,8 @@
                     }
                 ?>
                 <!-- video section-->
-                <p id="text_first_page">‏
+                <p id="text_first_page" style="text-align: center;
+        margin-top: 15%;">‏
                 ‏
                 ‏
                 ‏
