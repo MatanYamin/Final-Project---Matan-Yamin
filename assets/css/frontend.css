@@ -430,5 +430,6 @@ body {
     .video_welcome{
         display: flex; 
         justify-content: center;
+        
     }
 }
