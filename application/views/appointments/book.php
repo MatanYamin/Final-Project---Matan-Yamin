@@ -372,7 +372,7 @@
                 &nbsp;
                     <a href="mailto:skycleanerisrael@gmail.com" target="_blank">
                     <?php 
-                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' style='width: 4.5%;'>"; 
+                    echo "<img src='https://image.flaticon.com/icons/png/512/281/281769.png' style='width: 3%;'>"; 
                         ?> 
                 <br> 
                 <br>
