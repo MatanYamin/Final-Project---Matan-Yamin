@@ -23,9 +23,9 @@
                     col-lg-offset-2 col-lg-8">
                 <img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" style="width: 10%;">
                 <div class="col-xs-12 col-sm-2">
-                    <img id="success-icon" class="pull-right" src="<?= base_url('assets/img/success.png') ?>" />
+                    <!-- <img id="success-icon" class="pull-right" src="<?= base_url('assets/img/success.png') ?>" /> -->
                 </div>
-                <div class="col-xs-12 col-sm-10">
+                <div class="col-xs-12 col-sm-10" style="text-align: center;">
                     <?php
                         echo '
                             <h3>' . lang('appointment_registered') . '</h3>
