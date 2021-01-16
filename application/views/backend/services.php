@@ -97,7 +97,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="service-duration"><?= lang('duration_minutes') ?> *</label>
+                        <label for="service-duration"><?= lang('duration_minutes') ?> מתן</label>
                         <input id="service-duration" class="form-control required" type="number" min="15">
                     </div>
 
