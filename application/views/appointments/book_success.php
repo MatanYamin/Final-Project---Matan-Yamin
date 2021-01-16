@@ -60,7 +60,48 @@
     </div>
     
     <!-- חדש -->
-    
+    <div id="frame-footer">
+                    <a href="https://api.whatsapp.com/send?phone=972542201042&lang=he" target="_blank">
+                    <?php 
+                    echo "<img src='https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png' style='width: 5%;'>"; 
+                    ?> 
+                </a>
+                &nbsp;
+                    <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
+                    <?php 
+                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' style='width: 5%;'>"; 
+                    ?> 
+                </a>
+                &nbsp;
+                    <a href="https://www.instagram.com/skycleaner1/" target="_blank">
+                    <?php 
+                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' style='width: 4%;'>"; 
+                    ?> 
+                </a>
+                &nbsp;
+                    <a href="https://easy.co.il/page/10080031" target="_blank">
+                    <?php 
+                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' style='width: 5%;'>"; 
+                        ?> 
+                </a>
+                &nbsp;
+                    <a href="tel:054-220-1042" target="_blank">
+                    <?php 
+                    echo "<img src='https://i.pinimg.com/originals/b5/d7/19/b5d7198734ee5174b581630628ecfdd6.png' style='width: 4.5%;'>"; 
+                        ?> 
+                </a>
+                &nbsp;
+                    <a href="mailto:skycleanerisrael@gmail.com" target="_blank">
+                    <?php 
+                    echo "<img src='https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png' style='width: 4.8%;'>"; 
+                        ?> 
+                <br> 
+                <br>
+                </a>
+                
+                <p id="credit_matan_yamin" style="width: 100%; margin: auto; font-weight: bold;"> 
+                &nbsp;<a href="https://www.linkedin.com/in/matan-yamin-40283b199/"> פיתוח צד שרת ועיצוב: מתן ימין &nbsp; </a> <img src='https://icons-for-free.com/iconfiles/png/512/programming+tags+icon-1320087273222563498.png' style='width: 4.5%;'>
+                </p>
     <!-- סוף -->
     <script src="<?= base_url('assets/ext/jquery/jquery.min.js') ?>"></script>
     <script src="<?= base_url('assets/ext/bootstrap/js/bootstrap.min.js') ?>"></script>
