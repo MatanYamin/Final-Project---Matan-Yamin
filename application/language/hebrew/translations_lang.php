@@ -26,14 +26,13 @@ $lang['confirm'] = 'אישור תור';
 $lang['update'] = 'עדכון';
 $lang['cancel_appointment_hint'] = 'לחצו על "ביטול" על מנת להסיר את התור';
 $lang['cancel'] = 'ביטול';
-$lang['appointment_registered'] = '!תודה שבחרתם בסקאי קלינר!
- אנו מתחייבים למקצועיות ואמינות';
+$lang['appointment_registered'] = 'תודה שבחרתם בסקאי קלינר!';
 $lang['cancel_appointment_title'] = 'ביטול תור';
 $lang['appointment_cancelled'] = 'ביטלת את התור בהצלחה';
 $lang['appointment_cancelled_title'] = 'תור בוטל';
 $lang['reason'] = 'סיבה';
 $lang['appointment_removed_from_schedule'] = 'התור הוסר מלוח השנה';
-$lang['appointment_details_was_sent_to_you'] = 'פרטי התור נשלחו אליך במייל';
+$lang['appointment_details_was_sent_to_you'] = 'פרטי התור בדרך אליכם למייל וללוח השנה שלכם';
 $lang['add_to_google_calendar'] = 'סנכרן עם גוגל קלנדר';
 $lang['appointment_booked'] = 'תורך נקבע בהצלחה!';
 $lang['thank_you_for_appointment'] = 'תודה רבה שבחרת בנו. ניתן לראות את פרטי התור מתחת. ';
