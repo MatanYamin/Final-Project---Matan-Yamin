@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir="rtl">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,13 +25,13 @@
                 <div class="col-xs-12 col-sm-2">
                     <!-- <img id="success-icon" class="pull-right" src="<?= base_url('assets/img/success.png') ?>" /> -->
                 </div>
-                <div class="col-xs-12 col-sm-10" style="text-align: center;">
+                <div class="col-xs-12 col-sm-10" style="text-align: center; width: 100%;">
                     <?php
                         echo '
                             <h3>' . lang('appointment_registered') . '</h3>
                             <p>' . lang('appointment_details_was_sent_to_you') . '</p>
                             <a href="' . site_url() . '>
-                                <span class="glyphicon glyphicon-calendar"></span> ' . '
+                                  '.lang('go_to_booking_page') . '
                             </a>
                         ';
 
@@ -56,39 +56,41 @@
                 <!-- חדש -->
                     <a href="https://api.whatsapp.com/send?phone=972542201042&lang=he" target="_blank">
                     <?php 
-                    echo "<img src='https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png' style='width: 5%;'>"; 
+                    echo "<img src='https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png' style='width: 6.5%;'>"; 
                     ?> 
                 </a>
                 &nbsp;
                     <a id="facebook" href="https://www.facebook.com/SkyCleanerIsrael" target="_blank">
                     <?php 
-                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' style='width: 5%;'>"; 
+                    echo "<img src='https://purpleironingservices.com/wp-content/uploads/2017/02/facebook-footer-share.png' style='width: 6.5%;'>"; 
                     ?> 
                 </a>
                 &nbsp;
                     <a href="https://www.instagram.com/skycleaner1/" target="_blank">
                     <?php 
-                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' style='width: 4%;'>"; 
+                    echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' style='width: 6%;'>"; 
                     ?> 
                 </a>
                 &nbsp;
                     <a href="https://easy.co.il/page/10080031" target="_blank">
                     <?php 
-                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' style='width: 5%;'>"; 
+                    echo "<img src='https://play-lh.googleusercontent.com/LaVRvqc6Hxy2EQj8G6-qsuOUz66Q5GZBOhAOs6n7YjsaopFbQwjDhYqurw_RS5grRQ' style='width: 7%;'>"; 
                         ?> 
                 </a>
                 &nbsp;
                     <a href="tel:054-220-1042" target="_blank">
                     <?php 
-                    echo "<img src='https://i.pinimg.com/originals/b5/d7/19/b5d7198734ee5174b581630628ecfdd6.png' style='width: 4.5%;'>"; 
+                    echo "<img src='https://i.pinimg.com/originals/b5/d7/19/b5d7198734ee5174b581630628ecfdd6.png' style='width: 6%;'>"; 
                         ?> 
                 </a>
                 &nbsp;
                     <a href="mailto:skycleanerisrael@gmail.com" target="_blank">
                     <?php 
-                    echo "<img src='https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png' style='width: 4.8%;'>"; 
+                    echo "<img src='https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png' style='width: 6%;'>"; 
                         ?> 
                 <br> 
+                <br>
+                <br>
                 <br>
                 </a>
                 
