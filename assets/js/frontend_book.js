@@ -557,7 +557,7 @@ window.FrontendBook = window.FrontendBook || {};
             phone_number: $('#phone-number').val(),
             address: $('#address').val(),
             city: $('#city').val(),
-            zip_code: $('#zip-code').val()
+            // zip_code: $('#zip-code').val()
         };
 
         postData.appointment = {
