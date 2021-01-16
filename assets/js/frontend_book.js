@@ -540,9 +540,9 @@ window.FrontendBook = window.FrontendBook || {};
             EALang.address + ': ' + address +
             '<br/>' +
             EALang.city + ': ' + city +
-            '<br/>' +
-            EALang.zip_code + ': ' + zipCode +
-            '</p>';
+            '</p>' ;
+            // EALang.zip_code + ': ' + zipCode +
+            // '</p>';
 
         $('#customer-details').html(html);
 
