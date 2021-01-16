@@ -678,7 +678,7 @@ window.FrontendBook = window.FrontendBook || {};
                 }
 
                 if (service.price != '' && service.price != null) {
-                    html += ' ' + EALang.price + ' ' + service.price + ' ' + service.currency + ' ';
+                    html += '<p style="color: red;"><br> ' + EALang.price + ' ' + service.price + ' ' + service.currency + ' </p>';
                     // html += '[' + EALang.price + ' ' + service.price + ' ' + service.currency + ']';
                 }
 
