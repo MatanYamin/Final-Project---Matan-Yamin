@@ -55,8 +55,12 @@
                         }
                     ?>
                 </div>
-                <!-- חדש -->
-                <div id="frame-footer">
+            </div>
+        </div>
+    </div>
+    
+    <!-- חדש -->
+    <div id="frame-footer">
                     <a href="https://api.whatsapp.com/send?phone=972542201042&lang=he" target="_blank">
                     <?php 
                     echo "<img src='https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png' style='width: 5%;'>"; 
@@ -98,11 +102,7 @@
                 <p id="credit_matan_yamin" style="width: 100%; margin: auto; font-weight: bold;"> 
                 &nbsp;<a href="https://www.linkedin.com/in/matan-yamin-40283b199/"> פיתוח צד שרת ועיצוב: מתן ימין &nbsp; </a> <img src='https://icons-for-free.com/iconfiles/png/512/programming+tags+icon-1320087273222563498.png' style='width: 4.5%;'>
                 </p>
-                <!-- סוף -->
-            </div>
-        </div>
-    </div>
-
+    <!-- סוף -->
     <script src="<?= base_url('assets/ext/jquery/jquery.min.js') ?>"></script>
     <script src="<?= base_url('assets/ext/bootstrap/js/bootstrap.min.js') ?>"></script>
     <script src="<?= base_url('assets/ext/datejs/date.js') ?>"></script>
