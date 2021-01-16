@@ -30,7 +30,7 @@
                 <!-- FRAME TOP BAR -->
 
                 <div id="header">
-                    <span href="http://3.138.43.76/index.php/" id="company-name"><img  src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" width="100%">
+                    <span  id="company-name"><a href="http://3.138.43.76/index.php/"><img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" width="100%"> </a>
                 </span>
                 <div id="welcome_page">
                     <div id="steps" style="display: flex; justify-content: center; width: 100%; flex-direction: row-reverse;">
