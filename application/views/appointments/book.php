@@ -352,7 +352,7 @@
                 <!-- FRAME FOOTER -->
 
                 <div id="frame-footer">
-                    <a href="https://api.whatsapp.com/send?phone=0542201042" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=972542201042&lang=he" target="_blank">
                     <?php 
                     echo "<img src='https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png' style='width: 5%;'>"; 
                     ?> 
