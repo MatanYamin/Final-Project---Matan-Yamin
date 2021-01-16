@@ -2,8 +2,8 @@
 // English
 $lang['page_title'] = 'סקאי קלינר';
 $lang['step_one_title'] = 'רוצים שסקאי קלינר יגיעו לנקות לכם? בחרו את סוג השירות שתרצו לקבל';
-$lang['select_service'] = 'סוג השירות:';
-$lang['select_provider'] = 'בעל מקצוע';
+$lang['select_service'] = 'מה תרצו לנקות?';
+$lang['select_provider'] = 'תרצו שניצור איתכם קשר עבור פריטים נוספים ומבצעים נוספים?';
 $lang['duration'] = 'זמן עבודה';
 $lang['minutes'] = 'דקות';
 $lang['price'] = 'מחיר';
