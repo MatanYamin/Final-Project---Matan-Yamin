@@ -179,7 +179,7 @@
 
                     <div class="command-buttons">
                         <button type="button" id="button-next-1" class="btn button-next btn-primary"
-                                data-step_index="1">
+                                data-step_index="1" style="margin-top: 25%;">
                             <?= lang('next') ?>
                             <span class="glyphicon glyphicon-forward"></span>
                         </button>

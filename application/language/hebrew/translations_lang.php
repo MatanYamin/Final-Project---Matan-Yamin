@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 // English
-$lang['page_title'] = 'סקיי קלינר';
+$lang['page_title'] = 'סקאי קלינר';
 $lang['step_one_title'] = 'רוצים שסקאי קלינר יגיעו לנקות לכם? בחרו את סוג השירות שתרצו לקבל';
 $lang['select_service'] = 'סוג השירות:';
 $lang['select_provider'] = 'בעל מקצוע';
@@ -155,7 +155,7 @@ $lang['day'] = 'יום';
 $lang['days'] = 'ימים';
 $lang['actions'] = 'Actions';
 $lang['reset_working_plan_hint'] = 'Reset the working plan back to the default values.';
-$lang['company_name'] = 'סקיי-קלינר';
+$lang['company_name'] = 'סקאי קלינר';
 $lang['company_name_hint'] = 'Company name will be displayed everywhere on the system (required).';
 $lang['company_email'] = 'Company Email';
 $lang['company_email_hint'] = 'This will be the company email address. It will be used as the sender and the reply address of the system emails (required).';
@@ -267,7 +267,7 @@ $lang['ea_update_success'] = 'Easy!Appointments has been successfully updated!';
 $lang['require_captcha'] = 'Require CAPTCHA';
 $lang['require_captcha_hint'] = 'When enabled, the customers will have to type a random generated CAPTCHA string before booking/updating an appointment.';
 $lang['captcha_is_wrong'] = 'CAPTCHA verification failed, please try again.';
-$lang['any_provider'] = 'Any Provider';
+$lang['any_provider'] = ' ';
 $lang['requested_hour_is_unavailable'] = 'The requested appointment is unfortunately not available. Please select a different hour for your appointment.';
 $lang['customer_notifications'] = 'Customer Notifications';
 $lang['customer_notifications_hint'] = 'Defines whether the customer will receive email notifications whenever there is a schedule change on one of his appointments.';
