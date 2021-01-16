@@ -30,8 +30,7 @@
                         echo '
                             <h3>' . lang('appointment_registered') . '</h3>
                             <p>' . lang('appointment_details_was_sent_to_you') . '</p>
-                            <a href="' . site_url() . '>
-                                  '.lang('go_to_booking_page') . '
+                            <a href="' . site_url() . '>            
                             </a>
                         ';
 
