@@ -311,7 +311,7 @@
 
                 <div id="wizard-frame-4" class="wizard-frame" style="display:none;">
                     <div class="frame-container">
-                        <h3 class="frame-title"><?= lang('step_four_title') ?></h3>
+                        <h3 class="frame-title" style="color: white;"><?= lang('step_four_title') ?></h3>
                         <div class="frame-content row">
                             <div id="appointment-details" class="col-xs-12 col-sm-6" style="color: white;"></div>
                             <div id="customer-details" class="col-xs-12 col-sm-6" style="color: white;"></div>
