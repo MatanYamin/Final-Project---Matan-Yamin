@@ -294,7 +294,7 @@
                         </div>
                     </div>
 
-                    <div class="command-buttons">
+                    <div class="command-buttons" style="margin-top: 2%;">
                         <button type="button" id="button-back-3" class="btn button-back btn-default"
                                 data-step_index="3"><span class="glyphicon glyphicon-backward"></span>
                             <?= lang('back') ?>
@@ -313,8 +313,8 @@
                     <div class="frame-container">
                         <h3 class="frame-title"><?= lang('step_four_title') ?></h3>
                         <div class="frame-content row">
-                            <div id="appointment-details" class="col-xs-12 col-sm-6"></div>
-                            <div id="customer-details" class="col-xs-12 col-sm-6"></div>
+                            <div id="appointment-details" class="col-xs-12 col-sm-6" style="color: white;"></div>
+                            <div id="customer-details" class="col-xs-12 col-sm-6" style="color: white;"></div>
                         </div>
                         <?php if ($this->settings_model->get_setting('require_captcha') === '1'): ?>
                         <div class="frame-content row">
