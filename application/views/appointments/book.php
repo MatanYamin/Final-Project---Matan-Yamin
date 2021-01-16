@@ -191,14 +191,14 @@
                 <div id="wizard-frame-2" class="wizard-frame" style="display:none;">
                     <div class="frame-container">
 
-                        <h3 class="frame-title"><?= lang('step_two_title') ?></h3>
+                        <h3 class="frame-title" style="color: white;"><?= lang('step_two_title') ?></h3>
 
                         <div class="frame-content row">
                             <div class="col-xs-12 col-sm-6">
                                 <div id="select-date"></div>
                             </div>
 
-                            <div class="col-xs-12 col-sm-6">
+                            <div class="col-xs-12 col-sm-6" style="color: white;">
                                 <div id="available-hours"></div>
                             </div>
                         </div>
@@ -221,7 +221,7 @@
                 <!-- ENTER CUSTOMER DATA -->
 
                 <div id="wizard-frame-3" class="wizard-frame" style="display:none;">
-                    <div class="frame-container">
+                    <div class="frame-container" style="color: white;">
 
                         <h3 class="frame-title"><?= lang('step_three_title') ?></h3>
 
