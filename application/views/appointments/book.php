@@ -223,7 +223,7 @@
                 <div id="wizard-frame-3" class="wizard-frame" style="display:none;">
                     <div class="frame-container" style="color: white;">
 
-                        <h3 class="frame-title"><?= lang('step_three_title') ?></h3>
+                        <h3 class="frame-title" style="color: white;"><?= lang('step_three_title') ?></h3>
 
                         <div class="frame-content row">
                             <div class="col-xs-12 col-sm-6">
