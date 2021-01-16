@@ -167,10 +167,10 @@
 
                             <div class="form-group">
                                 <label for="select-provider">
-                                    <strong><?= lang('select_provider') ?></strong>
+                                    <strong style="color: white;"><?= lang('select_provider') ?></strong>
                                 </label>
 
-                                <select id="select-provider" class="col-xs-12 col-sm-4 form-control"></select>
+                                <select id="select-provider" class="col-xs-12 col-sm-4 form-control" style="color: black; font-weight: bold; font-size: 20px;"></select>
                             </div>
 
                             <div id="service-description" style="display:none; font-size: 20px; color: white;"></div>
