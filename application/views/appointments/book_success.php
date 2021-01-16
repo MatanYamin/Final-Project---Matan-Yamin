@@ -21,7 +21,7 @@
                     col-sm-offset-1 col-sm-10
                     col-md-offset-2 col-md-8
                     col-lg-offset-2 col-lg-8">
-                <img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" style="width: 10%;">
+                <img src="https://i.ibb.co/yh7CyXp/Sky-Cleaner.jpg" style="width: 100%;">
                 <div class="col-xs-12 col-sm-2">
                     <!-- <img id="success-icon" class="pull-right" src="<?= base_url('assets/img/success.png') ?>" /> -->
                 </div>

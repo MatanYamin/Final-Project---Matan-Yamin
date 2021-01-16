@@ -26,7 +26,8 @@ $lang['confirm'] = 'אישור תור';
 $lang['update'] = 'עדכון';
 $lang['cancel_appointment_hint'] = 'לחצו על "ביטול" על מנת להסיר את התור';
 $lang['cancel'] = 'ביטול';
-$lang['appointment_registered'] = '!תודה שבחרתם בסקאי קלינר! אנו מתחייבים למקצועיות ואמינות';
+$lang['appointment_registered'] = '!תודה שבחרתם בסקאי קלינר!
+ אנו מתחייבים למקצועיות ואמינות';
 $lang['cancel_appointment_title'] = 'ביטול תור';
 $lang['appointment_cancelled'] = 'ביטלת את התור בהצלחה';
 $lang['appointment_cancelled_title'] = 'תור בוטל';
