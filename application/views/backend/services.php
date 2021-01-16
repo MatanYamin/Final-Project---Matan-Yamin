@@ -103,7 +103,7 @@
 
                     <div class="form-group">
                         <label for="service-price"><?= lang('price') ?> *</label>
-                        <input id="service-price" class="form-control required">
+                        <input id="service-price" class="form-control">
                     </div>
 
                     <div class="form-group">
