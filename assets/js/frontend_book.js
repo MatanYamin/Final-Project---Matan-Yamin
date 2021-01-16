@@ -516,7 +516,7 @@ window.FrontendBook = window.FrontendBook || {};
             + $('#select-provider option:selected').text() + '<br>'
             + selectedDate + ' ' + $('.selected-hour').text()
             + servicePrice + ' ' + serviceCurrency
-            + '</strong>' +
+            + '(שימו לב, המחיר עלול להשתנות בהתאם לנלווי הפריט, אפשר ליצור איתנו קשר עבור פרטים נוספים)</strong>' +
             '</p>';
 
         $('#appointment-details').html(html);

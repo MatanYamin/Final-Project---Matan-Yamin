@@ -320,7 +320,7 @@
                         <div class="frame-content row">
                             <div class="col-xs-12 col-sm-6">
                                 <h4 class="captcha-title">
-                                    CAPTCHA
+                                    הקלידו את הטקסט
                                     <small class="glyphicon glyphicon-refresh"></small>
                                 </h4>
                                 <img class="captcha-image" src="<?= site_url('captcha') ?>">
