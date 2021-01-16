@@ -31,8 +31,7 @@
                             <h3>' . lang('appointment_registered') . '</h3>
                             <p>' . lang('appointment_details_was_sent_to_you') . '</p>
                             <a href="' . site_url() . '>
-                                <span class="glyphicon glyphicon-calendar"></span> ' .
-                                lang('go_to_booking_page') . '
+                                <span class="glyphicon glyphicon-calendar"></span> ' . '
                             </a>
                         ';
 
