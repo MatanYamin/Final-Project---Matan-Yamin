@@ -670,7 +670,7 @@ window.FrontendBook = window.FrontendBook || {};
                 html = '<strong>' + service.name + ' </strong>';
 
                 if (service.description != '' && service.description != null) {
-                    html += '<br>' + service.description + '<br>';
+                    html += '<br>' + service.description;
                 }
 
                 if (service.duration != '' && service.duration != null) {
