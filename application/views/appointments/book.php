@@ -97,7 +97,7 @@
                 <!-- Modal content -->
                 <div class="modal-content">
                     <span class="close">&times;</span>
-                    <p>Some text in the Modal..</p>
+                    <p>צריך להוסיף פה פרטי יצירת קשר</p>
                 </div>
 
                 </div>
@@ -110,10 +110,9 @@
         margin-top: 15%; font-size: 25px; color: white;">
         צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
                 <br>
-                <button type="image" id="myBtn">
-                <img style="width: 10%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                <button type="image" id="myBtn" style="width: 15%; border-radius: 70%;">
+                <img style="width: 100%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
                 </button>
-                <br>‏
                 <br>‏
                     ברוכים הבאים למערכת קביעת התורים של Sky Cleaner <br>
                     צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
