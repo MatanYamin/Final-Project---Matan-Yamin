@@ -102,12 +102,11 @@
 
                 </div>
 
-                <!-- </div> -->
+                <!-- </div> check to who this div belong -->
                 
                 <!-- video section-->
-                <p id="text_first_page" style="text-align: center;
-        margin-top: 15%; font-size: 25px; color: white;">
-        צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
+                <p id="text_first_page" style="text-align: center; font-size: 25px; color: white;">
+        צריכים אותנו דחוף? לחצו על הכפתור וצרו איתנו קשר עכשיו!
                 <br>
                 <button type="image" id="myBtn" style="width: 15%; border-radius: 70%;">
                 <img style="width: 100%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
