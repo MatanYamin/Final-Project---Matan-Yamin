@@ -102,8 +102,7 @@
 
                 </div>
 
-                </div>
-
+                <!-- </div> -->
                 
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
