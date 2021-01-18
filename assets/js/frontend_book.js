@@ -653,13 +653,6 @@ window.FrontendBook = window.FrontendBook || {};
         }
     }
 
-// CHECK FOR MODAL!!!
-
-
-
-// END CHECK MODAL!!!!
-
-
     /**
      * This method updates a div's html content with a brief description of the
      * user selected service (only if available in db). This is useful for the
