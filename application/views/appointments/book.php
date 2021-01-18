@@ -89,9 +89,11 @@
                 <!-- try new moal -->
                 <p id="text_first_page" style="text-align: center; margin-top: 15%; font-size: 25px; color: white;">
                 צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
+                <br>
+                <br>
                 </p>
-                <button id="myBtn"> <img src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png"></button>
-
+                <img id="myBtn" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                 <br><br>       
 <!-- The Modal -->
                 <div id="myModal" class="modal">
 
