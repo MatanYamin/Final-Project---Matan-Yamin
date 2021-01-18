@@ -87,7 +87,9 @@
                 <!-- CHECK!!!!!!! -->
 
                 <!-- try new moal -->
-                <button id="myBtn">Open Modal</button>
+                צריכים ניקוי דחוף? לחצו על כפתור ה SOS וצרו איתנו קשר! <br>
+                <button id="myBtn" ><img src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png" style="width:10%;"></button>
+                <br>
 
 <!-- The Modal -->
                 <div id="myModal" class="modal">
