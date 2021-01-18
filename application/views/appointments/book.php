@@ -84,6 +84,23 @@
                         echo '</div>';
                     }
                 ?>
+                <!-- CHECK!!!!!!! -->
+
+                <!-- try new moal -->
+                <button id="myBtn">Open Modal</button>
+
+                <!-- The Modal -->
+                <div id="myModal" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <p>Some text in the Modal..</p>
+                </div>
+
+                </div>
+
+                <!-- ENDD CHECKKKK -->
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
         margin-top: 15%; font-size: 25px; color: white;">‏
