@@ -85,15 +85,9 @@
                     }
                 ?>
                 <!-- CHECK!!!!!!! -->
-                <p id="text_first_page" style="text-align: center;
-        margin-top: 15%; font-size: 25px; color: white;">‏
-                צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
-                <br>
-                <button type="image" id="myBtn">
-                <img style="width: 10%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
-                </button>
-                <br>
-                </p>
+              ‏
+                
+                
                 <!-- try new moal -->
                
                       
@@ -110,38 +104,16 @@
 
                 </div>
 
-                <!-- ENDD CHECKKKK -->
-                <script>
-                var modal = document.getElementById("myModal");
-
-                // Get the button that opens the modal
-                var btn = document.getElementById("myBtn");
-
-                // Get the <span> element that closes the modal
-                var span = document.getElementsByClassName("close")[0];
-
-                // When the user clicks on the button, open the modal
-                btn.onclick = function() {
-                modal.style.display = "block";
-                }
-
-                // When the user clicks on <span> (x), close the modal
-                span.onclick = function() {
-                modal.style.display = "none";
-                }
-
-                // When the user clicks anywhere outside of the modal, close it
-                window.onclick = function(event) {
-                if (event.target == modal) {
-                    modal.style.display = "none";
-                }
-                }
-
-                </script>
-                <!-- END OF TRY MODAL -->
+                
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
-        margin-top: 15%; font-size: 25px; color: white;">‏
+        margin-top: 15%; font-size: 25px; color: white;">
+        צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
+                <br>
+                <button type="image" id="myBtn">
+                <img style="width: 10%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                </button>
+                <br>‏
                 <br>‏
                     ברוכים הבאים למערכת קביעת התורים של Sky Cleaner <br>
                     צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
@@ -238,7 +210,36 @@
                         </button>
                     </div>
                 </div>
+                
+                <!-- ENDD CHECKKKK -->
+                <script>
+                var modal = document.getElementById("myModal");
 
+                // Get the button that opens the modal
+                var btn = document.getElementById("myBtn");
+
+                // Get the <span> element that closes the modal
+                var span = document.getElementsByClassName("close")[0];
+
+                // When the user clicks on the button, open the modal
+                btn.onclick = function() {
+                modal.style.display = "block";
+                }
+
+                // When the user clicks on <span> (x), close the modal
+                span.onclick = function() {
+                modal.style.display = "none";
+                }
+
+                // When the user clicks anywhere outside of the modal, close it
+                window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+                }
+
+                </script>
+                <!-- END OF TRY MODAL -->
                 <!-- SELECT APPOINTMENT DATE -->
 
                 <div id="wizard-frame-2" class="wizard-frame" style="display:none;">
