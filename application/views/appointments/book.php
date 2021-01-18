@@ -85,7 +85,15 @@
                     }
                 ?>
                 <!-- CHECK!!!!!!! -->
-
+                <p id="text_first_page" style="text-align: center;
+        margin-top: 15%; font-size: 25px; color: white;">‏
+                צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
+                <br>
+                <button type="image" id="myBtn">
+                <img style="width: 10%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                </button>
+                <br>
+                </p>
                 <!-- try new moal -->
                
                       
@@ -134,12 +142,6 @@
                 <!-- video section-->
                 <p id="text_first_page" style="text-align: center;
         margin-top: 15%; font-size: 25px; color: white;">‏
-                צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
-                <br>
-                <button style="background: url(https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png)" id="myBtn">
-                SOS
-                </button>
-               
                 <br>‏
                     ברוכים הבאים למערכת קביעת התורים של Sky Cleaner <br>
                     צפו בהגרלה האחרונה שנערכה והשארו מעודכנים עבור הגרלות נוספות בעמוד האינסטגרם והפייסבוק שלנו!
