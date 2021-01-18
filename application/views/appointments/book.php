@@ -136,8 +136,8 @@
         margin-top: 15%; font-size: 25px; color: white;">‏
                 צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
                 <br>
-                <button type="image" id="myBtn">
-                <img style="width: 10%;" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                <button style="background: url(https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png)" id="myBtn">
+                SOS
                 </button>
                
                 <br>‏
