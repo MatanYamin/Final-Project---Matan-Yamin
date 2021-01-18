@@ -90,7 +90,7 @@
                 <p id="text_first_page" style="text-align: center; margin-top: 15%; font-size: 25px; color: white;">
                 צריכים אותנו מיד? לחצו על הכפתור וצרו איתנו קשר עכשיו!
                 </p>
-                <button id="myBtn" style="background: url(https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png); widht: 6%;"></button>
+                <button id="myBtn"> <img src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png"></button>
 
 <!-- The Modal -->
                 <div id="myModal" class="modal">
