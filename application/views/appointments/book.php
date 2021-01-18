@@ -141,11 +141,8 @@
                 <br>
                 <br>
                 
-                <img id="myBtn" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
+                <img style="width: 10%;" id="myBtn" src="https://cdn3.iconfinder.com/data/icons/symbol-2-1/36/184-512.png">
                 ‏
-                ‏
-                </p>
-                
                 ‏
                 <br>
                 <br>‏
