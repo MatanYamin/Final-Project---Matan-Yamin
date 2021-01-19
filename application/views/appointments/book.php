@@ -97,7 +97,31 @@
                 <!-- Modal content -->
                 <div class="modal-content">
                     <span class="close">&times;</span>
-                    <p>צריך להוסיף פה פרטי יצירת קשר</p>
+                    <p>
+                    <script>
+                    button(type="button", onclick="makeCallToFoo()") Run python script
+                    const { spawn } = require('child_process')
+                    app.get('/foo', function(req, res) {
+                        // Call your python script here.
+                        // I prefer using spawn from the child process module instead of the Python shell
+                        const scriptPath = 'C:/Users/matan/Desktop/Backend---Final-Project/website.py'
+                        const process = spawn('python', [scriptPath, arg1, arg2])
+                        process.stdout.on('data', (myData) => {
+                            // Do whatever you want with the returned data.
+                            // ...
+                            res.send("Done!")
+                        })
+                        process.stderr.on('data', (myErr) => {
+                            // If anything gets written to stderr, it'll be in the myErr variable
+                        })
+                    })
+                            function makeCallToFoo() {
+                        fetch('/foo').then(function(response) {
+                // Use the response sent here
+                        })
+                        }
+                    </script>
+                    צריך להוסיף פה פרטי יצירת קשר</p>
                 </div>
 
                 </div>
