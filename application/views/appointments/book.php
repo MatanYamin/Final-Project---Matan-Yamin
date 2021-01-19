@@ -98,7 +98,7 @@
                 <div class="modal-content">
                     <span class="close">&times;</span>
                     <p>
-                    <script>
+                    <!-- <script>
                     button(type="button", onclick="makeCallToFoo()") Run python script
                     const { spawn } = require('child_process')
                     app.get('/foo', function(req, res) {
@@ -120,7 +120,7 @@
                 // Use the response sent here
                         })
                         }
-                    </script>
+                    </script> -->
                     צריך להוסיף פה פרטי יצירת קשר</p>
                 </div>
 
